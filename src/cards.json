@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "BIG PURP",
+        "image": "../public/assets/images/BIG PURP.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Bot Bot",
+        "image": "../public/assets/images/BotBot.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Chet",
+        "image": "../public/assets/images/ChetGreen.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Clevland",
+        "image": "../public/assets/images/ClevlandSteemer.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "CPT Awesome",
+        "image": "../public/assets/images/CPTAWESMOE.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Crimson tide",
+        "image": "../public/assets/images/Crimson tide.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Duke.jpg",
+        "image": "../public/assets/images/Duke.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "FULL Metal Jacket",
+        "image": "../public/assets/images/FULL Metal Jacket.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Ice Cold",
+        "image": "../public/assets/images/Ice Cold.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "",
+        "image": "../public/assets/images/",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Metal Face",
+        "image": "../public/assets/images/Metal face.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "OPEN CHESTFACE",
+        "image": "../public/assets/images/OPEN CHESTFACE.jpg",
+        "count": 0
+    }
+]
